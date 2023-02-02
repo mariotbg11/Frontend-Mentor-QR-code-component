@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<a href="https://dynamic-salmiakki-cae9ec.netlify.app/" target="_blank">![Frontend Mentor - QR code component](https://user-images.githubusercontent.com/106422023/216270347-54ec5ff4-f976-44e9-8eff-ce30d7a5c8e5.png)</a>
 
 ### Links
 
